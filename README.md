@@ -14,7 +14,7 @@ it must be presented by adding another 8, if the summed
 value is less than or equal to 20, it must be presented 
 by subtracting 5.
 
-## Aprendizados
+## Aprendizados | Learnings
 
 ☠️ Aprendi a trabalhar códigos PHP dentro do script em 
 HTML.
@@ -22,8 +22,7 @@ HTML.
 ☠️ I learned how to work PHP codes inside the script in
 HTML.
 
-
-## Stack utilizada
+## Stack utilizada | Stack used
 
 **Front-end:** VS code | HTML
 
